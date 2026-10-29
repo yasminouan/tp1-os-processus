@@ -1,0 +1,4 @@
+# Programmes compilés
+bin/
+*.o
+*.out
